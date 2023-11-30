@@ -1,0 +1,27 @@
+Protocol Day 4, 30.11.2023
+
+Basic Overview:
+
+Review of the protocol of day 3
+Setting up of the Macbooks (those who already have theirs)
+
+
+09:00 – 10:40:
+Protocol review, additional editing on github
+
+commit; push; requesting and giving reviews, pull requests, merging
+
+10:40 – 11:00
+break
+11:00 – 13:00
+setting up the Macbooks:
+
+1. Navigate to the directory ds-getting-started/setup-with-just in your Finder (probably in Downloads)
+2. Click with 2 fingers (or right click) on setup-with-just choose Services, then New Terminal at Folder. Alternatively navigate to the ds-getting-started/setup-with-just in your terminal
+3. Type ./setup.sh and press Enter. The first prompt will ask you to type your password, for other prompts you can simple press Enter
+4. he ssh key is now copied to your buffer. Navigate to your Profile on Github: 
+go to Settings and then to SSH and GPG keys. 
+click New SSH key and paste the contents of your buffer inside. 
+Click Add SSH key. 
+5. Start Iterm and go to Settings, go to Profiles, then Text. When you click on Profiles and select Text you can set the Font at the bottom of the window. Choose JetBrainsMono Nerd Font
+
